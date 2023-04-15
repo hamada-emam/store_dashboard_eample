@@ -1,1 +1,1 @@
-# store_dashboard_eample
+# store_dashboard_example
